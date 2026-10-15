@@ -1,0 +1,5 @@
+interface:
+  display_name: "Evidence-First Product Design Mentor"
+  short_description: "Learn product design through evidence, practice, and critique"
+  brand_color: "#1723A7"
+  default_prompt: "Use $evidence-first-product-design-mentor to coach me through this product design challenge without doing the thinking for me."
